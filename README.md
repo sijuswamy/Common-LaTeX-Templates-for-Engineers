@@ -22,7 +22,7 @@ Github link [https://github.com/sijuswamy/LaTeX-Workshop
 ## Template for Article
 <https://github.com/sijuswamy/Common-LaTeX-Templates-for-Engineers/blob/main/Templates/Article.tex>
 ## Template for Project Report
-<>
+<https://github.com/sijuswamy/Common-LaTeX-Templates-for-Engineers/blob/main/Templates/Project_report.tex>
 ## Template for Insudtrial Training Report
 
 <>
