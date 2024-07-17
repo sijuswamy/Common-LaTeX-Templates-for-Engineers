@@ -24,5 +24,4 @@ Github link [https://github.com/sijuswamy/LaTeX-Workshop
 ## Template for Project Report
 <https://github.com/sijuswamy/Common-LaTeX-Templates-for-Engineers/blob/main/Templates/Project_report.tex>
 ## Template for Insudtrial Training Report
-
-<>
+<https://github.com/sijuswamy/Common-LaTeX-Templates-for-Engineers/blob/main/Templates/Industrial_training_report.tex>
