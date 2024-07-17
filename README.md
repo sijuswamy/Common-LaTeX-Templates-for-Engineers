@@ -15,12 +15,14 @@ Github link [https://github.com/sijuswamy/LaTeX-Workshop
 
 # Various Templated available in this Repo
 
-# Template for Presentation
+## Template for Presentation
 
 <https://github.com/sijuswamy/Common-LaTeX-Templates-for-Engineers/blob/main/Templates/Presentation.tex>
 
-# Template for Project Report
+## Template for Article
+<https://github.com/sijuswamy/Common-LaTeX-Templates-for-Engineers/blob/main/Templates/Article.tex>
+## Template for Project Report
 <>
-# Template for Insudtrial Training Report
+## Template for Insudtrial Training Report
 
 <>
