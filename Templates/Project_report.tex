@@ -1,0 +1,117 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{natbib}
+\usepackage{makeidx}
+\geometry{margin=1in}
+\makeindex
+%\include{defs}
+\title{Project Report Title}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+% Certificate
+\newpage
+\begin{center}
+    \textbf{CERTIFICATE}
+\end{center}
+\vspace{1cm}
+This is to certify that the project titled \textit{Project Report Title} is a bona fide work carried out by \textbf{Your Name} under the supervision of \textbf{Supervisor's Name}.
+
+\newpage
+
+% Acknowledgments
+\section*{Acknowledgments}
+I would like to express my gratitude to...
+
+\newpage
+
+% Abstract
+\section*{Abstract}
+This report summarizes the findings of...
+
+\newpage
+
+% Notations
+\section*{Notations}
+\begin{itemize}
+    \item $\mathcal{A}$ - Description
+    \item $\mathcal{B}$ - Description
+\end{itemize}
+
+\newpage
+
+% Keywords
+\section*{Keywords}
+Keyword1, Keyword2, Keyword3, Keyword4
+
+\newpage
+\listoftables
+\listoffigures
+% Table of Contents
+\tableofcontents
+\newpage
+
+% Introduction
+\chapter{Introduction}
+This chapter introduces the project, outlining its objectives and significance. Stuff about eigenvectors\index{eigenvector} and 
+eigenvalues\index{eigenvalue}. Some more stuff about eigenvectors\index{eigenvector} and 
+eigenvalues\index{eigenvalue}. Something about 
+eigen-decomposition\index{eigen-decomposition}. 
+\newpage
+
+% Literature Review
+\chapter{Literature Review}
+Discuss relevant literature and how it relates to your project.
+
+\newpage
+
+% Methodology
+\chapter{Methodology}
+Describe the methods used in your project.
+
+\newpage
+
+% Implementation
+\chapter{Implementation}
+Provide details on how the project was implemented.
+
+\newpage
+
+% Results and Discussion
+\chapter{Results and Discussion}
+Present your results and discuss their implications.
+
+\newpage
+
+% Conclusion
+\chapter{Conclusion}
+Summarize the main findings and suggest future research directions.
+
+\newpage
+
+% References
+\bibliography{reference} % Your .bib file
+\bibliographystyle{plain} % Change to your preferred style
+
+\newpage
+
+% List of Publications
+\chapter*{List of Publications}
+\begin{itemize}
+    \item Publication 1
+    \item Publication 2
+\end{itemize}
+
+\newpage
+
+% Index
+\printindex
+
+\end{document}

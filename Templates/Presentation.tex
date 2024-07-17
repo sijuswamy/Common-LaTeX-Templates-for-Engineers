@@ -1,0 +1,56 @@
+\documentclass{beamer}
+\usetheme{Warsaw}
+
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{natbib}
+
+\title{Your Presentation Title Here}
+\author{Your Name}
+\date{\today}
+\institute{Your Institution}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+    \frametitle{Introduction}
+    This is the introduction slide where you can introduce your topic.
+\end{frame}
+
+\begin{frame}
+    \frametitle{Methodology}
+    Describe the methods used in your research. Include any relevant details.
+\end{frame}
+
+\begin{frame}
+    \frametitle{Results}
+    Present your findings here. Use figures and tables as needed.
+    
+    \begin{figure}[htbp]
+        \centering
+        \includegraphics[width=0.3\linewidth]{Templates/logo.png}
+        \caption{Caption for your figure.}
+        \label{fig:example}
+    \end{figure}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Discussion}
+    Discuss your results and their implications.
+\end{frame}
+
+\begin{frame}
+    \frametitle{Conclusion}
+    Summarize the main points of your presentation and suggest future research directions. The reference book for this project is \cite{lamport1985i1}.
+\end{frame}
+
+\begin{frame}[allowframebreaks]
+    \frametitle{References}
+    \bibliography{reference} % Your bibliography file
+    
+    \bibliographystyle{plainnat} % Change to your preferred style
+\end{frame}
+
+\end{document}
