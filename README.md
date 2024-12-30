@@ -13,7 +13,7 @@ Github link [https://github.com/sijuswamy/LaTeX-Workshop
 
 >**Step-4:** Open respective `.TeX` files and compile to get the `.pdf` output.
 
-# Various Templated available in this Repo
+# Various Templates available in this Repo
 
 ## Template for Presentation
 
